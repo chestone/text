@@ -1,4 +1,4 @@
-###NOTE: I am not the original author but they have not responded and their package was not properly on NPM so I put it there but am not responsible for issues. Please file those [here](https://github.com/requirejs/text)
+### NOTE: I am not the original author but they have not responded and their package was not properly on NPM so I put it there but am not responsible for issues. Please file those [here](https://github.com/requirejs/text)
 
 # text
 
